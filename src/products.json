@@ -1,0 +1,118 @@
+[
+    {
+        "id": 1,
+        "title": "Romantic Evening",
+        "description": "A soft, warm glow to set the mood",
+        "price": 19.99,
+        "thumbnail": "https://example.com/candle1.jpg",
+        "code": "VELA001",
+        "stock": 20,
+        "status": "available",
+        "category": "Home Decor"
+    },
+    {
+        "id": 2,
+        "title": "Fresh Cut Garden",
+        "description": "Invigorate your senses with the scent of fresh flowers",
+        "price": 14.99,
+        "thumbnail": "https://example.com/candle2.jpg",
+        "code": "VELA002",
+        "stock": 15,
+        "status": "available",
+        "category": "Garden"
+    },
+    {
+        "id": 3,
+        "title": "Cozy Winter Night",
+        "description": "Warm up with the comforting aroma of vanilla and caramel",
+        "price": 24.99,
+        "thumbnail": "https://example.com/candle3.jpg",
+        "code": "VELA003",
+        "stock": 10,
+        "status": "available",
+        "category": "Winter"
+    },
+    {
+        "id": 4,
+        "title": "Beach Walk",
+        "description": "Escape to the coast with the refreshing scent of citrus",
+        "price": 17.99,
+        "thumbnail": "https://example.com/candle4.jpg",
+        "code": "VELA004",
+        "stock": 25,
+        "status": "available",
+        "category": "Summer"
+    },
+    {
+        "id": 5,
+        "title": "Spiced Cranberry",
+        "description": "Get into the holiday spirit with this festive blend",
+        "price": 19.99,
+        "thumbnail": "https://example.com/candle5.jpg",
+        "code": "VELA005",
+        "stock": 18,
+        "status": "available",
+        "category": "Holiday"
+    },
+    {
+        "id": 6,
+        "title": "Lavender Dreams",
+        "description": "Unwind with the calming scent of lavender",
+        "price": 12.99,
+        "thumbnail": "https://example.com/candle6.jpg",
+        "code": "VELA006",
+        "stock": 22,
+        "status": "available",
+        "category": "Wellness"
+    },
+    {
+        "id": 7,
+        "title": "Fresh Baked Cookies",
+        "description": "Indulge in the sweet aroma of freshly baked treats",
+        "price": 16.99,
+        "thumbnail": "https://example.com/candle7.jpg",
+        "code": "VELA007",
+        "stock": 12,
+        "status": "available",
+        "category": "Foodie"
+    },
+    {
+        "id": 8,
+        "title": "Midnight Forest",
+        "description": "Get lost in the mysterious scent of the forest at night",
+        "price": 21.99,
+        "thumbnail": "https://example.com/candle8.jpg",
+        "code": "VELA008",
+        "stock": 20,
+        "status": "available",
+        "category": "Nature"
+    },
+    {
+        "id": 9,
+        "title": "Sunset Stroll",
+        "description": "Capture the essence of a warm summer evening",
+        "price": 18.99,
+        "thumbnail": "https://example.com/candle9.jpg",
+        "code": "VELA009",
+        "stock": 15,
+        "status": "available",
+        "category": "Summer"
+    },
+    {
+        "id": "10",
+        "title": "Winter Wonderland",
+        "description": "Experience the magic of the winter season",
+        "price": 25.99,
+        "thumbnail": "https://example.com/candle10.jpg",
+        "code": "VELA010",
+        "stock": 12,
+        "status": "available",
+        "category": "Winter"
+    },
+    {
+        "id": "b0215738-06eb-4357-b0b2-a0ee33f6e1db"
+    },
+    {
+        "id": "a1aa6450-79e0-4322-9ef3-87fbe3e5bfcc"
+    }
+]
